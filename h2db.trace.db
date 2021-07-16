@@ -1,0 +1,12 @@
+2021-07-16 18:38:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabulka "USERS" nenalezena
+Table "USERS" not found; SQL statement:
+select user0_.id as id1_0_, user0_.password as password2_0_, user0_.role as role3_0_, user0_.user_name as user_nam4_0_ from users user0_ where user0_.user_name=? [42102-200]
+2021-07-16 18:38:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabulka "USERS" nenalezena
+Table "USERS" not found; SQL statement:
+select user0_.id as id1_0_, user0_.password as password2_0_, user0_.role as role3_0_, user0_.user_name as user_nam4_0_ from users user0_ where user0_.user_name=? [42102-200]
+2021-07-16 18:46:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabulka "USERS" nenalezena
+Table "USERS" not found; SQL statement:
+select user0_.id as id1_0_, user0_.password as password2_0_, user0_.role as role3_0_, user0_.user_name as user_nam4_0_ from users user0_ where user0_.user_name=? [42102-200]
