@@ -11,4 +11,9 @@ public class MenuController {
         return "index";
     }
 
+    @GetMapping("/contact")
+    public String toContact (){
+        return "contact";
+    }
+
 }
